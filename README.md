@@ -1,7 +1,7 @@
 # Metodos-Estadisticos-
 Curso de Metodos Estadisticos 
 
-Semana 1 
 
 ## Contenido 
+Semana 1 
 06/08/2022 : Clase inicial, presentacion del curso 
