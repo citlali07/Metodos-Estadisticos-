@@ -10,3 +10,7 @@ Semana 1
 
 
 10/08/2022 : Clase Sala de computo 
+
+Semana 2 
+
+15/08/2022 : Metodo Cientifico 
