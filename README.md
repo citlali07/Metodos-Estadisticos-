@@ -14,3 +14,12 @@ Semana 1
 Semana 2 
 
 15/08/2022 : Metodo Cientifico 
+
+Semana 3
+
+........................
+
+Semana 4
+
+29/08/22 : Clase sala de computo, captura y codificacion de datos 
+31/08/22 :
