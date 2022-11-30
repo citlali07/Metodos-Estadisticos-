@@ -50,24 +50,37 @@ Semana 9
 
 05/10/22: Clase Analisis de varianza 
 
+
 Semana 10
           10/10/22: Clase sala de computo 
           12/10/22: Examen (se fue la luz 2 veces)
+
+
 Semana 11
           17/10/22: Hubo salida en 5 IF
           19/10/22: Clase sala de computo, revisión de examen (damos verguenza)
+
+
 Semana 12
           24/10/22: Examen otra vez, a ver si no damos verguenza
           26/10/22: ........
+
+
 Semana 13
           31/10/22: .....
           02/11/22: llego tarde el profe y se suspendio 
+
+
 Semana 14
           07/11/22: aqui andamos por si si hay clase
           09/11/22:
+
+
 Semana 15
           14/11/22:
           16/11/22:
+ 
+ 
  Semana 16
           21/11/22: Receso académico segun el calendari0
 
