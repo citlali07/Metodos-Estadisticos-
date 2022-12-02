@@ -1,0 +1,19 @@
+ID,Entrev,Fecha,Genero,Edad,Carrera,Semestre ,oi_1,oi_2,oi_2a,oi_2b,oi_4,oi_4a,ef_1,ins_1,ap_1,ap_2,ap_3
+1,Prisila y Citlali,23/08/2022,M,19,IF,5,1,SI,NO,NA,NO,FCF,2,2,3,4,3
+2,Prisila y Citlali,22/08/2022,M,21,IF,5,2,SI,NO,NA,NO,FCF,2,2,3,3,3
+3,Prisila y Citlali,22/08/2022,M,19,IF,5,1,SI,NO,NA,NO,FCF,2,3,3,5,3
+4,Prisila y Citlali,23/08/2022,H,20,IF,5,1,SI,NO,NA,NO,FCF,3,3,3,4,3
+5,Prisila y Citlali,23/08/2022,H,20,IF,5,1,SI,NO,NA,SI,FACMED,2,3,4,4,4
+6,Prisila y Citlali,23/08/2022,M,20,IF,5,1,SI,SI,FARQ,SI,FARQ,2,2,2,4,4
+7,Prisila y Citlali,25/08/2022,M,19,IF,5,5,SI,NO,FCFM,NO,FCF,3,3,2,5,3
+8,Prisila y Citlali,28/08/2022,M,19,IMRN,5,1,SI,NO,NA,NO,FCF,2,3,3,3,3
+9,Prisila y Citlali,28/08/2022,M,19,IMRN,5,1,SI,NO,NA,NO,FCF,3,2,3,3,2
+10,Prisila y Citlali,28/08/2022,M,19,IMRN,5,1,SI,NO,NA,NO,FCF,2,3,3,3,3
+11,Prisila y Citlali,28/08/2022,M,18,IMRN,5,1,SI,SI,NA,NO,FCF,2,2,4,5,4
+12,Prisila y Citlali,28/08/2022,M,24,IMRN,5,1,SI,SI,NA,SI,FCT,3,3,3,4,4
+13,Prisila y Citlali,28/08/2022,M,20,IMRN,5,1,SI,NO,FA,NO,FCF,3,3,4,4,5
+14,Prisila y Citlali,29/08/2022,M,21,IMRN,5,3,SI,SI,NA,NO,FCF,2,3,4,4,5
+15,Prisila y Citlali,29/08/2022,M,18,IF,5,2,SI,NO,NA,NO,FCF,2,3,4,5,5
+16,Prisila y Citlali,29/08/2022,M,20,IMRN,5,1,SI,NO,NA,NO,FCF,2,2,3,4,5
+17,Prisila y Citlali,29/08/2022,M,20,IF,5,1,SI,SI,FCB ,NO,FCF,2,2,3,4,3
+18,Prisila y Citlali,29/08/2022,M,18,IF,5,1,SI,NO,FAV,NO,FCF,2,2,3,5,2
